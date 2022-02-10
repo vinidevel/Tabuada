@@ -1,0 +1,58 @@
+
+body{
+
+    background-color: blue;
+
+}
+
+header{
+
+    color: white;
+    text-align: center;
+    font-style: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.6em;
+}
+
+section{
+
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.301);
+    
+}
+
+#infoum, #tab{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bolder;
+    padding-top: 40px;
+    font-size: 1.2em;
+}
+
+#res, #resimg{
+    text-align: center;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bolder;
+    padding-top: 20px;
+    font-size: 1.2em;
+}
+
+#imagem{
+
+    align-items: center;
+    padding-left: 115px;
+    padding-top: 60px;   
+    
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
